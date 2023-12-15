@@ -19,6 +19,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day-2-CubeConundrum", "day-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day-2-CubeConundrum.Tests", "day-2-CubeConundrum.Tests\day-2-CubeConundrum.Tests.csproj", "{EECFA9AF-E86D-4BAA-ACF9-4AD2C37B8BA1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day-7-Camelcards", "day-7-Camelcards\day-7-Camelcards.csproj", "{268075D2-AECA-4A30-B73C-4776774AFA90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "day-7-Camelcards.Tests", "day-7-Camelcards.Tests\day-7-Camelcards.Tests.csproj", "{9B25BD62-E76C-4F5C-84C6-89255F736219}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{EECFA9AF-E86D-4BAA-ACF9-4AD2C37B8BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EECFA9AF-E86D-4BAA-ACF9-4AD2C37B8BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EECFA9AF-E86D-4BAA-ACF9-4AD2C37B8BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268075D2-AECA-4A30-B73C-4776774AFA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268075D2-AECA-4A30-B73C-4776774AFA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268075D2-AECA-4A30-B73C-4776774AFA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268075D2-AECA-4A30-B73C-4776774AFA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B25BD62-E76C-4F5C-84C6-89255F736219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B25BD62-E76C-4F5C-84C6-89255F736219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B25BD62-E76C-4F5C-84C6-89255F736219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B25BD62-E76C-4F5C-84C6-89255F736219}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
